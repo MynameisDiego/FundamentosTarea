@@ -1,0 +1,39 @@
+﻿  Zombie.cpp
+  Window.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\window.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'SDL\SDL.h': No such file or directory
+  TextureCache.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\gltexture.h(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  SpriteBatch.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\spritebatch.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'GL\glew.h': No such file or directory
+  Sprite.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\sprite.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'GL\glew.h': No such file or directory
+  ResourceManager.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\gltexture.h(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Player.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\agent.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'glm\glm.hpp': No such file or directory
+  picoPNG.cpp
+  PapuEngine.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\papuengine.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'SDL\SDL.h': No such file or directory
+  MainGame.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\maingame.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'SDL\SDL.h': No such file or directory
+  main.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\main.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'SDL\SDL.h': No such file or directory
+  Level.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\spritebatch.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'GL\glew.h': No such file or directory
+  IOManager.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\iomanager.cpp(15): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\iomanager.cpp(18): warning C4244: '-=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+  InputManager.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\inputmanager.h(3): fatal error C1083: No se puede abrir el archivo incluir: 'glm\glm.hpp': No such file or directory
+  ImageLoader.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\gltexture.h(3): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Human.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\agent.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'glm\glm.hpp': No such file or directory
+  GLS_Program.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\gls_program.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Error.cpp
+  Camera2D.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\camera2d.h(3): fatal error C1083: No se puede abrir el archivo incluir: 'glm\glm.hpp': No such file or directory
+  Agent.cpp
+d:\users\diego\downloads\fundajuegos-ta001\fundajuegos-ta001\fundamentos\papuengine\agent.h(2): fatal error C1083: No se puede abrir el archivo incluir: 'glm\glm.hpp': No such file or directory
+  Generando código...

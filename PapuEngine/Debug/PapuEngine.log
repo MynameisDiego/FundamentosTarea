@@ -1,0 +1,15 @@
+﻿  MainGame.cpp
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(121): warning C4018: '<': signed/unsigned mismatch
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(147): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(163): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(189): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(197): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(200): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(211): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(219): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(222): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta02\fundamentos201901\proyectos\papuengine\maingame.cpp(230): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PapuEngine.vcxproj -> E:\Documents\ces\ciclo 8\FundaJuegos\semana 11\TA02\Fundamentos201901\Proyectos\Debug\PapuEngine.exe
+  PapuEngine.vcxproj -> E:\Documents\ces\ciclo 8\FundaJuegos\semana 11\TA02\Fundamentos201901\Proyectos\Debug\PapuEngine.pdb (Partial PDB)
