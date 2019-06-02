@@ -1,0 +1,4 @@
+﻿  Zombie.cpp
+e:\documents\ces\ciclo 8\fundajuegos\semana 11\ta01\fundamentos201901\proyectos\papuengine\zombie.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PapuEngine.vcxproj -> E:\Documents\ces\ciclo 8\FundaJuegos\semana 11\TA01\Fundamentos201901\Proyectos\Debug\PapuEngine.exe
+  PapuEngine.vcxproj -> E:\Documents\ces\ciclo 8\FundaJuegos\semana 11\TA01\Fundamentos201901\Proyectos\Debug\PapuEngine.pdb (Partial PDB)

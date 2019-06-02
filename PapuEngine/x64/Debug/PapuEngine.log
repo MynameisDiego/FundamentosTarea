@@ -1,0 +1,9 @@
+﻿  Zombie.cpp
+d:\users\diego\downloads\fundajuegos-ta002\fundajuegos-ta002\proyectos\papuengine\zombie.cpp(20): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MainGame.cpp
+d:\users\diego\downloads\fundajuegos-ta002\fundajuegos-ta002\proyectos\papuengine\maingame.cpp(33): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\users\diego\downloads\fundajuegos-ta002\fundajuegos-ta002\proyectos\papuengine\maingame.cpp(124): warning C4244: 'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+d:\users\diego\downloads\fundajuegos-ta002\fundajuegos-ta002\proyectos\papuengine\maingame.cpp(140): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Generando código...
+  PapuEngine.vcxproj -> d:\Users\Diego\Downloads\FundaJuegos-TA002\FundaJuegos-TA002\Proyectos\x64\Debug\PapuEngine.exe
+  PapuEngine.vcxproj -> d:\Users\Diego\Downloads\FundaJuegos-TA002\FundaJuegos-TA002\Proyectos\x64\Debug\PapuEngine.pdb (Partial PDB)
