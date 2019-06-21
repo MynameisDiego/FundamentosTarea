@@ -1,0 +1,42 @@
+﻿  Agent.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\Agent.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Bullet.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\Bullet.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Camera2D.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\Camera2D.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Error.cpp
+  GLS_Program.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\GLS_Program.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Human.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\Agent.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  ImageLoader.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\GLTexture.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  InputManager.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\InputManager.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  IOManager.cpp
+IOManager.cpp(15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+IOManager.cpp(18): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Level.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\SpriteBacth.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  main.cpp
+main.cpp(1): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  MainGame.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\MainGame.h(2): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  PapuEngine.cpp
+PapuEngine.cpp(1): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  picoPNG.cpp
+  Player.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\Agent.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  ResourceManager.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\GLTexture.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Sprite.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\Sprite.h(2): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  SpriteBacth.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\SpriteBacth.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  TextureCache.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\GLTexture.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Window.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\Window.h(2): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  Compiling...
+  Zombie.cpp
+c:\users\luis\documents\copy\papu-framework\papuengine\Agent.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory

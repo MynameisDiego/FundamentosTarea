@@ -1,0 +1,5 @@
+﻿  PlayScreen.cpp
+d:\users\diego\downloads\tarea 3\tarea 3\fundamentos201901\proyectos\papuengine\playscreen.cpp(90): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\users\diego\downloads\tarea 3\tarea 3\fundamentos201901\proyectos\papuengine\playscreen.cpp(92): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+d:\users\diego\downloads\tarea 3\tarea 3\fundamentos201901\proyectos\papuengine\playscreen.cpp(150): warning C4101: 'buffer': variable local sin referencia
+  PapuEngine.vcxproj -> D:\Users\Diego\Downloads\TAREA 3\TAREA 3\Fundamentos201901\Proyectos\Debug\PapuEngine.exe
